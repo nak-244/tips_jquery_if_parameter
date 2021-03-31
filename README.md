@@ -1,0 +1,2 @@
+# tips_jquery_if_parameter
+jQueryでURLパラメータ取得後ifで条件分岐
